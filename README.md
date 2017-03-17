@@ -1,2 +1,2 @@
 # AddEnchant
-This mod add a Enchant but this dont work.
+This mod add a Enchant but it dont work.
